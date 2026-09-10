@@ -3,6 +3,8 @@
 A low-cost, portable environmental monitoring system built using **Arduino Uno**, gas/noise sensors, an **ESP8266 Wi-Fi module**, and an **I2C LCD**. The system measures air-quality and noise-related sensor values in real time, displays the readings locally, and can transmit them to a cloud platform such as **ThingSpeak** for remote monitoring and hotspot visualization.
 
 > **Project:** Real-Time Noise and Air Quality Detection and Hotspot Mapping Using Arduino
+## Screenshots
+![Project Screenshot](images/WhatsApp.jpeg)
 
 ## 📌 Overview
 
