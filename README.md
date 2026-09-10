@@ -4,7 +4,7 @@ A low-cost, portable environmental monitoring system built using **Arduino Uno**
 
 > **Project:** Real-Time Noise and Air Quality Detection and Hotspot Mapping Using Arduino
 ## Screenshots
-![Project Screenshot](images/WhatsApp.jpeg)
+![Project Screenshot](images/Image.jpeg)
 
 ## 📌 Overview
 
